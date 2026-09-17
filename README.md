@@ -24,9 +24,15 @@ Instead of importing CSV files directly into Power BI, I structured the project 
 * **Hidden Dispatch Bottleneck:** The logistics flow pointed out that sellers spend an average of 3 days just to dispatch the order, consuming 25% of the customer's total wait time. This suggests the creation of a "24h Shipping" badge, which would organically reduce the platform's overall timeframe without extra costs.
 
 **Sales Overview and Distribution by State**
+
+*VENDAS*
 ![Vendas](d3e0b644-c888-4db0-99d6-92a1e650c1a8.png)
+*ESTADOS*
 ![Estados](55283645-fa6d-498a-abc1-40a012a1ec3b.png)
 
 **Delivery SLA Analysis and Seller Performance**
+
+*REVIEWS*
 ![Reviews](f7989ee2-274f-4d5b-a04f-e83a3c72e5e3.png)
+*VENDEDORES*
 ![Vendedores](e714714b-8a3b-4574-bd81-d58e4bfeb916.png)
